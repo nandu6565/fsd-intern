@@ -1,0 +1,359 @@
+body {
+    margin: 0px;
+    font-family: segoe UI;
+    line-height: 1.7;
+}
+.navbarleft{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-left: 200px;
+    width: 100%;
+    color: #6f6f6f;
+    cursor: pointer;
+}
+.icon img{
+    height: 26px;
+
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    cursor: pointer;
+    
+}
+ul li:hover{
+    color: #387ed1;
+}
+.navbar{
+    display: flex;
+}
+.navbar{
+    background-color: white;
+    margin-top: 0%;
+    width: 100%;
+}
+.navbar{
+    position: fixed;
+}
+.navbar-left{
+    padding: 12px;
+    cursor: pointer;
+    
+}
+.navbar-left img{
+    height: 18px;
+}
+.navbar-left{
+    margin-left: 200px;
+}
+.navbarleft{
+    margin-right: 200px;
+}
+.homepage img{
+    margin-left: 560px;
+    margin-top: 80px;
+    height: 40vh;
+    cursor: pointer;
+}
+h1 {
+    font-size: 2.75rem;
+    line-height: 1.25;
+}
+h1{
+    margin-top: 0px;
+    font-weight: 500;
+}
+h1{
+    text-align: center;
+}
+h1{
+    margin-top: 50px;
+}
+h1{
+    color: #242323;
+}
+h5 {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+h5{
+    color: #3b3939;
+}
+h5{
+    text-align: center;
+}
+.btn{
+    background-color: #377cce;
+    padding: 14px 28px;
+    cursor: pointer;
+    display: inline;
+    color: white;
+}
+.btn:hower{
+    background-color: black;
+}
+
+
+.btn{
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #387ed1;
+    border-radius: 3px;
+   
+    font-size: 1.2em;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-decoration: none;
+   
+    
+    border-radius: 3px;
+    border: 1px solid #bbb;
+   
+    box-sizing: border-box;
+}
+.button{
+    text-align: center;
+}
+.btn:hover{
+    background-color: black;
+    cursor: pointer;
+
+}
+.row{
+    display: flex;
+}
+.side{
+    display: flex;
+}
+.side{
+    margin-top: 100px;
+    
+}
+.side1{
+    margin-left: 260px;
+}
+.side1 img{
+    height: 320px;
+    cursor: pointer;
+}
+.side2{
+    width: 100%;
+    margin-left: 140px;
+}
+h2 {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+h2{
+    
+        margin-top: 0px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    
+} 
+p{
+    
+        font-size: 1rem;
+        line-height: 1.8;
+        margin-bottom: 15px;
+    
+}
+.row{
+    font-family: "Inter", serif;
+    font-size: 16px;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.8;
+    font-weight: 400;
+    margin-bottom: 15px;
+    
+}
+.strip img{
+    width: 450px;
+    cursor: pointer;
+}
+.eco{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.hov{
+    
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0px;
+    font-family: segoe UI;
+    line-height: 1.7;
+    font-size: large;
+    cursor: pointer;
+    
+    
+}
+.fa-arrow-right{
+
+
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+
+
+.last {
+    margin-top: 120px;
+    text-align: center;
+}
+
+b {
+    font-weight: bold;
+}
+.nn{
+    display: flex;
+    text-align: center;
+    margin-top: 60px;
+
+}
+.tab{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    text-align: center;
+}
+.unbeatable{
+    margin-left: 260px;
+}
+.tab{
+    margin-left: 90px;
+    
+}
+.flex22{
+    margin-left: 60px; 
+}
+.side-text{
+    margin-left: 120px;
+    margin-top: 66px;
+}
+.var{
+    display: flex;
+
+}
+
+.b2:hover{
+    
+    color: #6f6f6f;
+    cursor: pointer;
+}
+.b3:hover{
+    color: #6f6f6f;
+    cursor: pointer;
+}
+.unordered-list{
+    list-style: none;
+    margin-left: -50px;
+    cursor: pointer;
+}
+#footer{
+    margin-left: 200px;
+    margin-top: 150px;
+    display: flex;
+    
+}
+#footer-left-one{
+    margin-left: 90px;
+    
+}
+#footer-left-second{
+    margin-left: 90px;
+    
+}
+#footer-left-third{
+    margin-left: 90px;
+    
+}
+#footer-foot{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -200px;
+    
+    color: #9b9b9b;
+}
+p{
+    font-size: 11px;
+}
+.footer-graveyard-links{
+    
+    font-family: "Inter", serif;
+    font-size: 16px;
+    width: 100%;
+    line-height: 1.7;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul li{
+    
+    list-style: none;
+    margin-left: 30pxpx;
+    justify-content: start;
+    
+    width: 100%
+    color: #666;
+    
+}
+li{
+    margin-left: 20px;
+}
+.fgl{
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    width: 100%;
+    margin-left: 180px;
+    cursor: pointer;
+    
+}
+ul li:hover{
+    color: #377cce;
+}
+
+.fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.pricing{
+    font-size: large;
+    cursor: pointer;
+}
+.Varsity{
+    font-size: large;
+    cursor: pointer;
+}
+.trading{
+    font-size: large;
+    cursor: pointer;
+}
+.image4{
+    cursor: pointer;
+}
+.image5{
+    cursor: pointer;
+}
+.arrow{
+    font-size: larger;
+}
